@@ -1,3 +1,3 @@
 # MovieCRUD
-Creat Delete dhe Update--> shtimi i te dhenave nga databaza , fshirja dhe , update i te dhenava
+Creat Delete and Update--> shtimi i te dhenave nga databaza , fshirja, update i te dhenava.
 Projekti eshte bere me java - swing GUI
